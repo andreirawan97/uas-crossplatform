@@ -1,0 +1,7 @@
+{
+  "name": "uas-crossplatform",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
